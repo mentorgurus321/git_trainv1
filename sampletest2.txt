@@ -2,3 +2,4 @@ Git commit 2
 
 this is a sample file 2
 This is Comparision lecture2
+This is Stash lecture, Change in File 2
