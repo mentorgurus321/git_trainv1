@@ -15,3 +15,6 @@ Configure the subnets
 For Number of Availability Zones, choose 1. You can keep the default Availability Zone, or alternatively you can expand Customize AZs and select an Availability Zone.
 
 For Number of public subnets, choose 1.
+
+This is Comparision lecture
+
